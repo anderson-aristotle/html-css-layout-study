@@ -5,8 +5,8 @@ you have completed the reading, follow the directions in the Flexbox Froggy game
 to help you learn and implement CSS Flexbox.
 
 Once you are done, use your favorite search engine and the provided readings to
-research and respond to the following questions. The [Sassmeister](https://www.sassmeister.com/)
-website is a great SASS playground to test your code.
+research and respond to the following questions. The [CodePen](https://codepen.io/)
+website is a great playground to test your code.
 
 In your responses, be sure to cite any relevant sources you consulted in your
 search. We ask you to write responses in your own words in order to see how you
