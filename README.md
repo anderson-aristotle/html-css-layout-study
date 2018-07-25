@@ -6,25 +6,13 @@
 
 -   HTML and CSS
 
-## Reading
-
-One of the best CSS tutorials out there is from a local web development shop,
-[bocoup](https://bocoup.com). Their [Learn CSS Layout](http://learnlayout.com)
-tutorial focuses on fundamentals of CSS, something we want to focus on early to
-improve our development speed and understanding of CSS for later projects.
-
-The tutorial is made of short sections that focus on one, specific aspect of
-layout with CSS. This makes it not only a great tutorial for layout, but also a
-valuable reference for later. You'll probably come back to this document from
-time to time when you need help with your layout.
-
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Explain the difference between `display: block;` and `display: inline;`
--   Explain the CSS box-model.
--   Explain `clear` and `float`.
+-   Explain Flexbox
+-   Explain the various Flexbox properties such as `justify-content` and
+    `align-itmes`.
 
 ## Instructions
 
